@@ -13,3 +13,5 @@ select.site.connection.port=8443
 select.site.connection.path=apps/Router/ReceiptPOC
 select.site.connection.queryParamName=receiptID
 connection.queryParamName=receiptID
+
+test=test
